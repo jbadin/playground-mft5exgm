@@ -1,4 +1,13 @@
-# Welcome!
+# Créer un testeur de force de mot de passe en HTML, CSS et Javascript
+
+Dans cet article, nous allons créer, étape par étape, un petit script permettant de tester la force d'un mot de passe. 
+
+Parlons d'abord des limites de notre testeur. Notre testeur va vérifier que notre mot de passe contient au moins :
+- une majuscule
+- une minuscule
+- un chiffre 
+- un caractère spécial
+- au moins 8 caractères
 
 This Basic template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
 
